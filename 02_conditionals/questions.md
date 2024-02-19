@@ -55,3 +55,17 @@ Problem: Customize a coffee order: "Small, "Medium", or "Large" with an option f
 </summary>
 Problem: Check if a Password is "Weak", "Medium", of "Strong". Criteria: < 6 chars (Weak), 6-10 chars (Medium), > 10 (Strong)
 </details>
+
+<details>
+<summary>
+9. Leap year checker
+</summary>
+Problem: Determine if the year is a Leap Year. (Leap years are divisible by 4, but not by 100 unless also divisible by 400)
+</details>
+
+<details>
+<summary>
+10. Pet food recommendation
+</summary>
+Problem: Reccomend a type of pet food based on the pet's species and age. (e.g., Dog: < 2 Years - Puppy food, Cat: > 5 years - Senior cat food)
+</details>
